@@ -21,7 +21,7 @@ pre * {
   display: none;
 }
 
-.hide-scrollbar::-webkit-scrollbar {
+.hidescrollbar::-webkit-scrollbar {
   display: none;
 }
 
