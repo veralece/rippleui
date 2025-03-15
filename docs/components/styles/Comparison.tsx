@@ -19,7 +19,7 @@ export const Comparison = () => {
           <CodeBlock
             hideIcon
             disableTabs
-            blockClass="sm:max-w-lg h-60 overflow-hidden w-full  hide-scrollbar"
+            blockClass="sm:max-w-lg h-60 overflow-hidden w-full  hidescrollbar"
             language="html"
             disabledFormat
           >
@@ -45,7 +45,7 @@ export const Comparison = () => {
           <CodeBlock
             hideIcon
             disableTabs
-            blockClass="sm:max-w-lg h-60 overflow-hidden w-full hide-scrollbar"
+            blockClass="sm:max-w-lg h-60 overflow-hidden w-full hidescrollbar"
             language="html"
             disabledFormat
           >
@@ -62,7 +62,7 @@ export const Comparison = () => {
           <CodeBlock
             hideIcon
             disableTabs
-            blockClass="sm:max-w-lg h-60 overflow-hidden w-full hide-scrollbar"
+            blockClass="sm:max-w-lg h-60 overflow-hidden w-full hidescrollbar"
             language="html"
             disabledFormat
           >
@@ -88,7 +88,7 @@ export const Comparison = () => {
           <CodeBlock
             hideIcon
             disableTabs
-            blockClass="sm:max-w-lg h-60 overflow-hidden w-full hide-scrollbar"
+            blockClass="sm:max-w-lg h-60 overflow-hidden w-full hidescrollbar"
             language="html"
             disabledFormat
           >
@@ -107,7 +107,7 @@ export const Comparison = () => {
           <CodeBlock
             hideIcon
             disableTabs
-            blockClass="sm:max-w-lg h-60 overflow-hidden w-full hide-scrollbar"
+            blockClass="sm:max-w-lg h-60 overflow-hidden w-full hidescrollbar"
             language="html"
             disabledFormat
           >
@@ -147,7 +147,7 @@ export const Comparison = () => {
           <CodeBlock
             hideIcon
             disableTabs
-            blockClass="sm:max-w-lg h-60 overflow-hidden w-full  hide-scrollbar"
+            blockClass="sm:max-w-lg h-60 overflow-hidden w-full  hidescrollbar"
             language="html"
             disabledFormat
           >

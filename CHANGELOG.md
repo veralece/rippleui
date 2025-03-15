@@ -224,7 +224,7 @@ All notable changes to this project will be documented in this file. See [standa
 - **config:** trigger function when color called ([68d8201](https://github.com/Siumauricio/rippleui/commit/68d82014126731a3571d7185f29f1639c4017530))
 - **dropdown:** reduce z-index to z-49 ([df5e6ce](https://github.com/Siumauricio/rippleui/commit/df5e6ceb3c82c76081ca43f8a803f5d481193bc1))
 - **modal:** increase z-index to be in front of navbar ([0fac4e0](https://github.com/Siumauricio/rippleui/commit/0fac4e0ca500a3700e3c53ac479b0b310886dc5d))
-- **utilites:** add hide-scrollbar ([4bb05b9](https://github.com/Siumauricio/rippleui/commit/4bb05b9f8467f6bbcdca6e17cb2855573f988566))
+- **utilites:** add hidescrollbar ([4bb05b9](https://github.com/Siumauricio/rippleui/commit/4bb05b9f8467f6bbcdca6e17cb2855573f988566))
 
 ### [1.3.2](https://github.com/Siumauricio/rippleui/compare/v1.3.1...v1.3.2) (2022-12-25)
 
