@@ -23,7 +23,7 @@
     "base": "npx tailwindcss -c ./components/base/tailwind.config.js -i ./components/base/base.css -o ./dist/css/base.css",
     "components": "tailwindcss --postcss -i ./components/components.css -o ./dist/css/components.css",
     "utilities": "npx tailwindcss -c ./components/utilities/tailwind.config.js -i ./components/utilities/utilities.css -o ./dist/css/utilities.css",
-    "build": "export NODE_ENV=production  npm run clean && npm run create:paths && npm run js && npm run js:minify && npm run base -- --minify && npm run utilities -- --minify && npm run styles -- --minify &&  npm run components -- --minify ",
+    "build": "set NODE_ENV=production  npm run clean && npm run create:paths && npm run js && npm run js:minify && npm run base -- --minify && npm run utilities -- --minify && npm run styles -- --minify &&  npm run components -- --minify ",
     "dev": " npm run create:paths &  npm run js -- --watch &  npm run styles -- --watch",
     "dev:all": "npm run create:paths && start npm run js -- --watch && start npm run styles -- --watch && start npm run base -- --watch && start npm run components -- --watch && start npm run utilities -- --watch",
     "npm:publish": "npm run build && git push --follow-tags origin main && npm publish",
@@ -70,7 +70,7 @@
     "terser": "^5.16.0",
     "touch-cli": "^0.0.1",
     "typescript": "^4.9.3",
-    "vitest": "^0.14.2"
+    "vitest": "^3.0.8"
   },
   "dependencies": {
     "@types/postcss-js": "^4.0.0",
